@@ -81,6 +81,14 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <p>
+                    Dit is een eerste test voor git
+                    <ul>
+                        <li>laravel project op github repository zetten</li>
+                        <li>nieuwe branch aanmaken</li>
+                        <li>wijziging maken en updaten naar branch</li>
+                    </ul>
+                </p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
